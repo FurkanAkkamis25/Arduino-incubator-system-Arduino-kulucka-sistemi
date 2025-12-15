@@ -43,5 +43,7 @@ Sistem, `loop` döngüsü içinde şu adımları izler:
 ## 📷 Ekran Görüntüleri
 
 <img width="1150" height="647" alt="Ekran Resmi 2025-12-15 16 56 21" src="https://github.com/user-attachments/assets/78b3c1a6-8410-459c-a811-f697269c6cd1" />
+<img width="1150" height="647" alt="Ekran Resmi 2025-12-15 16 56 36" src="https://github.com/user-attachments/assets/2aa40d9b-8179-4a42-bb5f-bb0fa6ff16b7" />
+<img width="1150" height="647" alt="Ekran Resmi 2025-12-15 16 57 03" src="https://github.com/user-attachments/assets/40390400-68bb-4f9c-9e46-ccd42320a2b6" />
 
 **Geliştirici:** [Furkan Akkamış]
