@@ -2,7 +2,6 @@
 
 Bu proje, Arduino Uno kullanarak geliştirilmiş; sıcaklık sabitleme, soğutma ve sesli alarm özelliklerine sahip bir **Otomatik Kuluçka Kontrol Sistemi** simülasyonudur.
 
-![Devre Şeması](devre_semasi.png)
 
 ## 🌟 Özellikler
 * **Hassas Sıcaklık Kontrolü:** Ortam sıcaklığını sürekli ölçer ve 0.5°C hassasiyetle tepki verir.
