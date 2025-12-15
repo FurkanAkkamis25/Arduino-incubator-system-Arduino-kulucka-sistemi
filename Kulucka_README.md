@@ -42,8 +42,6 @@ Sistem, `loop` döngüsü içinde şu adımları izler:
 
 ## 📷 Ekran Görüntüleri
 
-/Users/furkanakkamis/Desktop/Arduino_kulucka_sistemi/devreSemasi.png/Ekran Resmi 2025-12-15 16.56.21.png
-/Users/furkanakkamis/Desktop/Arduino_kulucka_sistemi/devreSemasi.png/Ekran Resmi 2025-12-15 16.56.36.png
-/Users/furkanakkamis/Desktop/Arduino_kulucka_sistemi/devreSemasi.png/Ekran Resmi 2025-12-15 16.57.03.png
----
+<img width="1150" height="647" alt="Ekran Resmi 2025-12-15 16 56 21" src="https://github.com/user-attachments/assets/78b3c1a6-8410-459c-a811-f697269c6cd1" />
+
 **Geliştirici:** [Furkan Akkamış]
